@@ -12,6 +12,8 @@ import java.util.Map.Entry;
 import java.util.NavigableMap;
 import java.util.TreeMap;
 
+//Author : Archit Jain
+
 public class Calc_PageRank {
 	int n = 25054;
 	double[] oldRank = new double[n];
